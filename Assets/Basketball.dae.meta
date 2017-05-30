@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: 77387d7d58171ba43a6c982a5d46fadd
+timeCreated: 1495523745
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Basketball
+    100004: Basketball_hoop
+    100006: Basketball_hoop 1
+    100008: group_0
+    100010: group_1
+    100012: group_2
+    100014: ID107
+    100016: ID125
+    100018: ID13
+    100020: ID131
+    100022: ID147
+    100024: ID147 1
+    100026: ID153
+    100028: ID153 1
+    100030: ID159
+    100032: ID159 1
+    100034: ID167
+    100036: ID167 1
+    100038: ID175
+    100040: ID175 1
+    100042: ID183
+    100044: ID183 1
+    100046: ID189
+    100048: ID189 1
+    100050: ID195
+    100052: ID195 1
+    100054: ID201
+    100056: ID201 1
+    100058: ID207
+    100060: ID207 1
+    100062: ID213
+    100064: ID213 1
+    100066: ID219
+    100068: ID219 1
+    100070: ID227
+    100072: ID227 1
+    100074: ID233
+    100076: ID233 1
+    100078: ID239
+    100080: ID239 1
+    100082: ID245
+    100084: ID245 1
+    100086: ID251
+    100088: ID251 1
+    100090: ID257
+    100092: ID257 1
+    100094: ID26
+    100096: ID261
+    100098: ID261 1
+    100100: ID265
+    100102: ID265 1
+    100104: ID269
+    100106: ID269 1
+    100108: ID273
+    100110: ID273 1
+    100112: ID277
+    100114: ID277 1
+    100116: ID281
+    100118: ID281 1
+    100120: ID285
+    100122: ID285 1
+    100124: ID289
+    100126: ID289 1
+    100128: ID293
+    100130: ID293 1
+    100132: ID297
+    100134: ID297 1
+    100136: ID301
+    100138: ID301 1
+    100140: ID305
+    100142: ID305 1
+    100144: ID318
+    100146: ID32
+    100148: ID326
+    100150: ID332
+    100152: ID346
+    100154: ID360
+    100156: ID368
+    100158: ID376
+    100160: ID384
+    100162: ID390
+    100164: ID396
+    100166: ID40
+    100168: ID404
+    100170: ID410
+    100172: ID418
+    100174: ID426
+    100176: ID432
+    100178: ID438
+    100180: ID444
+    100182: ID450
+    100184: ID456
+    100186: ID462
+    100188: ID468
+    100190: ID474
+    100192: ID478
+    100194: ID48
+    100196: ID482
+    100198: ID486
+    100200: ID490
+    100202: ID494
+    100204: ID498
+    100206: ID502
+    100208: ID506
+    100210: ID510
+    100212: ID514
+    100214: ID518
+    100216: ID522
+    100218: ID56
+    100220: ID71
+    100222: ID79
+    100224: ID85
+    100226: ID93
+    100228: ID99
+    100230: instance_0
+    100232: instance_1
+    100234: instance_2
+    100236: instance_3
+    100238: skp_camera_Last_Saved_SketchUp_View
+    100240: Susan
+    400000: Basketball
+    400002: //RootNode
+    400004: Basketball_hoop
+    400006: Basketball_hoop 1
+    400008: group_0
+    400010: group_1
+    400012: group_2
+    400014: ID107
+    400016: ID125
+    400018: ID13
+    400020: ID131
+    400022: ID147
+    400024: ID147 1
+    400026: ID153
+    400028: ID153 1
+    400030: ID159
+    400032: ID159 1
+    400034: ID167
+    400036: ID167 1
+    400038: ID175
+    400040: ID175 1
+    400042: ID183
+    400044: ID183 1
+    400046: ID189
+    400048: ID189 1
+    400050: ID195
+    400052: ID195 1
+    400054: ID201
+    400056: ID201 1
+    400058: ID207
+    400060: ID207 1
+    400062: ID213
+    400064: ID213 1
+    400066: ID219
+    400068: ID219 1
+    400070: ID227
+    400072: ID227 1
+    400074: ID233
+    400076: ID233 1
+    400078: ID239
+    400080: ID239 1
+    400082: ID245
+    400084: ID245 1
+    400086: ID251
+    400088: ID251 1
+    400090: ID257
+    400092: ID257 1
+    400094: ID26
+    400096: ID261
+    400098: ID261 1
+    400100: ID265
+    400102: ID265 1
+    400104: ID269
+    400106: ID269 1
+    400108: ID273
+    400110: ID273 1
+    400112: ID277
+    400114: ID277 1
+    400116: ID281
+    400118: ID281 1
+    400120: ID285
+    400122: ID285 1
+    400124: ID289
+    400126: ID289 1
+    400128: ID293
+    400130: ID293 1
+    400132: ID297
+    400134: ID297 1
+    400136: ID301
+    400138: ID301 1
+    400140: ID305
+    400142: ID305 1
+    400144: ID318
+    400146: ID32
+    400148: ID326
+    400150: ID332
+    400152: ID346
+    400154: ID360
+    400156: ID368
+    400158: ID376
+    400160: ID384
+    400162: ID390
+    400164: ID396
+    400166: ID40
+    400168: ID404
+    400170: ID410
+    400172: ID418
+    400174: ID426
+    400176: ID432
+    400178: ID438
+    400180: ID444
+    400182: ID450
+    400184: ID456
+    400186: ID462
+    400188: ID468
+    400190: ID474
+    400192: ID478
+    400194: ID48
+    400196: ID482
+    400198: ID486
+    400200: ID490
+    400202: ID494
+    400204: ID498
+    400206: ID502
+    400208: ID506
+    400210: ID510
+    400212: ID514
+    400214: ID518
+    400216: ID522
+    400218: ID56
+    400220: ID71
+    400222: ID79
+    400224: ID85
+    400226: ID93
+    400228: ID99
+    400230: instance_0
+    400232: instance_1
+    400234: instance_2
+    400236: instance_3
+    400238: skp_camera_Last_Saved_SketchUp_View
+    400240: Susan
+    2300000: Basketball
+    2300002: Basketball_hoop
+    2300004: Basketball_hoop 1
+    2300006: group_0
+    2300008: group_1
+    2300010: group_2
+    2300012: ID107
+    2300014: ID125
+    2300016: ID13
+    2300018: ID147
+    2300020: ID147 1
+    2300022: ID153
+    2300024: ID153 1
+    2300026: ID159
+    2300028: ID159 1
+    2300030: ID167
+    2300032: ID167 1
+    2300034: ID175
+    2300036: ID175 1
+    2300038: ID183
+    2300040: ID183 1
+    2300042: ID189
+    2300044: ID189 1
+    2300046: ID195
+    2300048: ID195 1
+    2300050: ID201
+    2300052: ID201 1
+    2300054: ID207
+    2300056: ID207 1
+    2300058: ID213
+    2300060: ID213 1
+    2300062: ID219
+    2300064: ID219 1
+    2300066: ID227
+    2300068: ID227 1
+    2300070: ID233
+    2300072: ID233 1
+    2300074: ID239
+    2300076: ID239 1
+    2300078: ID245
+    2300080: ID245 1
+    2300082: ID251
+    2300084: ID251 1
+    2300086: ID26
+    2300088: ID318
+    2300090: ID32
+    2300092: ID326
+    2300094: ID332
+    2300096: ID360
+    2300098: ID368
+    2300100: ID376
+    2300102: ID384
+    2300104: ID390
+    2300106: ID396
+    2300108: ID40
+    2300110: ID404
+    2300112: ID410
+    2300114: ID418
+    2300116: ID426
+    2300118: ID432
+    2300120: ID438
+    2300122: ID444
+    2300124: ID450
+    2300126: ID456
+    2300128: ID462
+    2300130: ID468
+    2300132: ID48
+    2300134: ID56
+    2300136: ID71
+    2300138: ID79
+    2300140: ID85
+    2300142: ID93
+    2300144: ID99
+    2300146: Susan
+    3300000: Basketball
+    3300002: Basketball_hoop
+    3300004: Basketball_hoop 1
+    3300006: group_0
+    3300008: group_1
+    3300010: group_2
+    3300012: ID107
+    3300014: ID125
+    3300016: ID13
+    3300018: ID147
+    3300020: ID147 1
+    3300022: ID153
+    3300024: ID153 1
+    3300026: ID159
+    3300028: ID159 1
+    3300030: ID167
+    3300032: ID167 1
+    3300034: ID175
+    3300036: ID175 1
+    3300038: ID183
+    3300040: ID183 1
+    3300042: ID189
+    3300044: ID189 1
+    3300046: ID195
+    3300048: ID195 1
+    3300050: ID201
+    3300052: ID201 1
+    3300054: ID207
+    3300056: ID207 1
+    3300058: ID213
+    3300060: ID213 1
+    3300062: ID219
+    3300064: ID219 1
+    3300066: ID227
+    3300068: ID227 1
+    3300070: ID233
+    3300072: ID233 1
+    3300074: ID239
+    3300076: ID239 1
+    3300078: ID245
+    3300080: ID245 1
+    3300082: ID251
+    3300084: ID251 1
+    3300086: ID26
+    3300088: ID318
+    3300090: ID32
+    3300092: ID326
+    3300094: ID332
+    3300096: ID360
+    3300098: ID368
+    3300100: ID376
+    3300102: ID384
+    3300104: ID390
+    3300106: ID396
+    3300108: ID40
+    3300110: ID404
+    3300112: ID410
+    3300114: ID418
+    3300116: ID426
+    3300118: ID432
+    3300120: ID438
+    3300122: ID444
+    3300124: ID450
+    3300126: ID456
+    3300128: ID462
+    3300130: ID468
+    3300132: ID48
+    3300134: ID56
+    3300136: ID71
+    3300138: ID79
+    3300140: ID85
+    3300142: ID93
+    3300144: ID99
+    3300146: Susan
+    4300000: group_0
+    4300002: ID318
+    4300004: ID326
+    4300006: ID332
+    4300008: group_1
+    4300010: ID13
+    4300012: ID26
+    4300014: ID32
+    4300016: ID40
+    4300018: ID48
+    4300020: ID56
+    4300022: group_2
+    4300024: ID71
+    4300026: ID79
+    4300028: ID85
+    4300030: ID93
+    4300032: ID99
+    4300034: ID107
+    4300036: Basketball
+    4300038: ID125
+    4300040: Basketball_hoop
+    4300042: ID147
+    4300044: ID153
+    4300046: ID159
+    4300048: ID167
+    4300050: ID175
+    4300052: ID183
+    4300054: ID189
+    4300056: ID195
+    4300058: ID201
+    4300060: ID207
+    4300062: ID213
+    4300064: ID219
+    4300066: ID227
+    4300068: ID233
+    4300070: ID239
+    4300072: ID245
+    4300074: ID251
+    4300076: Susan
+    4300078: ID360
+    4300080: ID368
+    4300082: ID376
+    4300084: ID384
+    4300086: ID390
+    4300088: ID396
+    4300090: ID404
+    4300092: ID410
+    4300094: ID418
+    4300096: ID426
+    4300098: ID432
+    4300100: ID438
+    4300102: ID444
+    4300104: ID450
+    4300106: ID456
+    4300108: ID462
+    4300110: ID468
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
